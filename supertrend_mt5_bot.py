@@ -9,7 +9,7 @@ import telegram
 
 # ----------------- CONFIG -----------------
 ACCOUNT = 257188317            # <- change to your MT5 account number
-PASSWORD = "Viplove123@"
+PASSWORD = "Viplove1234@"
 SERVER = "Exness-MT5Real36"   # <- change to your server name (Exness MT5 server)
 SYMBOL = "EURUSD"             # <- Exness symbol for crypto, change as required
 TIMEFRAME = mt5.TIMEFRAME_M5  # mt5.TIMEFRAME_M1 / M5 / M15 / H1 etc.
@@ -278,3 +278,4 @@ def run():
 
 if __name__ == "__main__":
     run()
+
